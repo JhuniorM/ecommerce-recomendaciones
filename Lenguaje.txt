@@ -1,0 +1,7 @@
+Se utilizara como lenguaje C# el cual es un lenguaje robusto y versatil que se adapta perfectamente a este tipo de proyectos.
+¿Por qué C# es una buena opción?
+Escalabilidad : C# es ideal para aplicaciones pequeñas, medianas o grandes.
+Framework ASP.NET Core : Ofrece herramientas modernas para construir aplicaciones web y APIs RESTful.
+Base de datos integrada : Puedes usar Entity Framework Core para interactuar fácilmente con bases de datos.
+Multiplataforma : Con .NET Core (o .NET 6/7), puedes desarrollar aplicaciones que funcionen en Windows, Linux y macOS.
+Comunidad activa : Hay mucha documentación y recursos disponibles para aprender y resolver problemas.
