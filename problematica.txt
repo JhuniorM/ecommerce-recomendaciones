@@ -1,2 +1,4 @@
 Desarrollo de una nueva funcionalidad en una aplicación web existente.
- en una aplicación web de comercio electrónico. El cliente ha solicitado una nueva funcionalidad: un sistema de recomendaciones de productos basado en el historial de compras del usuario. 
+ en una aplicación web de comercio electrónico.
+ El cliente ha solicitado una nueva funcionalidad:
+ un sistema de recomendaciones de productos basado en el historial de compras del usuario. 
