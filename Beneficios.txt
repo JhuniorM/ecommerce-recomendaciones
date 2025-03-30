@@ -1,0 +1,5 @@
+ Beneficios de esta estructura para el desarrollo frontend :
+Escalabilidad: la estructura esta organizada de forma modular, lo que facilita el crecimiento del proyecto con mas componentes,vistas y servicios que aporten al desarrollo de la pagina.
+Mantenimiento: Cada parte del proyecto tiene un proposito a desarrollar por lo que esta estructura facilita la localizacion y el mantenimiento de los archivos.
+Colaboracion: El equipo puede trabajar en diferentes secciones del proyecto sin interferencias ya que la estructura separa la logica de los componentes,las vistas y los servicios.
+Esta estructura esta pensada para mantener una buena organizacion mientras se implementa una aplicacion de comercio electronico y asi mejorar la experiencia de compra de los usuarios.
