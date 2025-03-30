@@ -1,0 +1,1 @@
+Sirve para abordar la lógica de la recomendación.
