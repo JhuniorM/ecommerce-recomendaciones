@@ -1,0 +1,1 @@
+Definirán los modelos de datos (como por ejemplo, usuarios, stock de los productos).

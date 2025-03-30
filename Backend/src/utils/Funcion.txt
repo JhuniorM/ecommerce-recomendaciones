@@ -1,1 +1,1 @@
-Conexión a la base de datos
+Funciones utilitarias, como la conexión a la base de datos y el manejo de errores

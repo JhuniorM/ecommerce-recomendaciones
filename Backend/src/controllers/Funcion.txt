@@ -1,1 +1,1 @@
-Sirve para abordar la lógica de la recomendación.
+Son los archivos que manejan la lógica de las rutas y controlan la interacción entre el modelo y la vista.

@@ -1,1 +1,1 @@
-Rutas de recomendación
+Definiciones de las rutas recomendación API (Interfaz de Programación de Aplicaciones)

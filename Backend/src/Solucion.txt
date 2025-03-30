@@ -1,0 +1,3 @@
+Esta estructura de carpetas y archivos proporciona una base sólida para desarrollar la funcionalidad de recomendaciones en el Backend. 
+Asegurándonos de adaptarla según las necesidades específicas de nuestro proyecto y la tecnologías que estemos utilizando.
+Una buena organización del código facilitará el mantenimiento y la escalabilidad del proyecto a largo plazo.

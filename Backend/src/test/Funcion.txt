@@ -1,1 +1,1 @@
-Pruebas de unidad de controlador de recomendación
+Contiene las pruebas unitarias e integradas para asegurar que el código funcione correctamente.
