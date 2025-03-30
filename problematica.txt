@@ -2,3 +2,11 @@ Desarrollo de una nueva funcionalidad en una aplicación web existente.
  en una aplicación web de comercio electrónico.
  El cliente ha solicitado una nueva funcionalidad:
  un sistema de recomendaciones de productos basado en el historial de compras del usuario. 
+---Solucion
+El objetivo es transformar la experiencia de compra mediante un sistema de recomendaciones altamente personalizado.
+Esto implica combinar análisis de datos avanzado con un enfoque innovador en la experiencia del usuario, utilizando metodologías ágiles y pruebas rigurosas para garantizar la efectividad de la solución.
+mediantes las ramas :
+"feature/backend-recomendaciones" (Es la lógica del servidor).
+"feature/frontend-recomendaciones" (Es la interfaz de usuario).
+"feature/algoritmo-recomendaciones" (Es el algoritmo de recomendación).
+Se hace el proceso de la resolucion dada ala problemtica 
